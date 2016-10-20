@@ -71,6 +71,7 @@
                         </flowInitContext>
                         <localOnly>true</localOnly>
                         <updateDependencies>false</updateDependencies>
+                        <allowUntracked>true</allowUntracked>
                     </configuration>
                 </plugin>
 
