@@ -1,0 +1,11 @@
+{
+  "name": "WebRTC Socket Server",
+  "script": "socket.js",
+  "watch": false,
+  "error_file": "/var/lib/nodejs/idcr-web/logs/idcr_socket_server_error.log",
+  "out_file": "/var/lib/nodejs/idcr-web/logs/idcr_socket_server_info.log",
+  "env": {
+    "HOST": "0.0.0.0",
+    "PORT": 8070
+  }
+}
