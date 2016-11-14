@@ -72,6 +72,7 @@
                         <localOnly>true</localOnly>
                         <updateDependencies>false</updateDependencies>
                         <allowUntracked>true</allowUntracked>
+                        <pushReleases>true</pushReleases>
                     </configuration>
                 </plugin>
 
